@@ -1,0 +1,13 @@
+[general]
+name=Transit Data Lab
+qgisMinimumVersion=3.44
+description=Research plugin for visual inspection of Transit Data Lab audit evidence.
+about=Experimental integration layer between QGIS and Transit Data Lab. This is an R&D skeleton, not a production release.
+version=0.0.1
+experimental=True
+author=Transit Data Lab
+email=
+repository=https://github.com/ylemusit/QGIS_Transit_Lab
+tracker=https://github.com/ylemusit/QGIS_Transit_Lab/issues
+homepage=https://github.com/ylemusit/QGIS_Transit_Lab
+category=Vector
